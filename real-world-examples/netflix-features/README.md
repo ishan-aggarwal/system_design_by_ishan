@@ -2,7 +2,7 @@
 
 ### Features
 
-[Check here](feature-1.md)
+[Feature 1: Group Similar Titles](feature-1.md)
 
 ### Project Requirements
 

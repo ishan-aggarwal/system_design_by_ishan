@@ -15,7 +15,7 @@ searches a title.
 
 Here is an illustration of this process:
 
-![img.png](Combining Similar Groups.png)
+![Combining Similar Groups.png](img.png)
 
 ### Solution
 
@@ -41,7 +41,7 @@ Return the values of the Hash Map, since each value will be an individual set.
 
 Let’s look at the following illustration to clarify this process:
 
-![img_1.png](Storing sets in a key-value storage.png)
+![Storing sets in a key-value storage.png](img_1.png)
 
 ### Complexity measures
 
